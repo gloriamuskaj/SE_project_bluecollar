@@ -4,6 +4,22 @@ Team Name: Blue Collar
 Team Leader: Gloria Muskaj
 Team Members: Gloria Muskaj, Aldi Hamati, Alesia Gjana, Amanda Gaci, Erjola Avdiaj
 
+Instructions for launching the web-application:
+
+1. Download the “handyman” folder from the repository.
+
+2. Download and install XAMPP application. Source: https://www.apachefriends.org/download.html
+
+3. Open XAMPP and start Apache and MySQL modules. 
+
+4. Click the Admin action of the MySQL module and a web page of MySQL will be opened.
+
+5. Upload the database from the files download in step one. 
+
+6. Open in a new tab through local host the “index.php” file.
+
+7. The web application is ready for use.
+
 Roles and Tasks
 Phase 1
 Problem description and solution: Alesia Gjana
